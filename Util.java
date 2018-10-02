@@ -1,4 +1,4 @@
-package com.lara;
+package com.app;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
